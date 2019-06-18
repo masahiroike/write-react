@@ -1,0 +1,25 @@
+{
+  "name": "write-react",
+  "version": "1.0.0",
+  "description": "elementを指定することなく、reactをrenderします",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "write",
+    "react"
+  ],
+  "author": "masahiroike",
+  "license": "ISC",
+  "dependencies": {
+    "react": "16.8.6",
+    "react-dom": "16.8.6"
+  },
+  "devDependencies": {
+    "@types/react": "16.8.20",
+    "@types/react-dom": "16.8.4",
+    "prettier": "1.18.2",
+    "typescript": "3.5.2"
+  }
+}
