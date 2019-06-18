@@ -2,6 +2,7 @@
 
 elementを指定することなく、reactをrenderします
 htmlファイルでreactを使いたい人向けのプログラムです
+https://github.com/masahiroike/write-react
 
 # install
 
