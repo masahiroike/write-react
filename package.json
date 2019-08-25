@@ -1,6 +1,6 @@
 {
   "name": "write-react",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "elementを指定することなく、reactをrenderします",
   "main": "lib/index.js",
   "scripts": {
