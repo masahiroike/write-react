@@ -14,7 +14,7 @@
   ],
   "author": "masahiroike",
   "license": "ISC",
-  "dependencies": {
+  "peerDependencies": {
     "react": "16.9.0",
     "react-dom": "16.9.0"
   },
